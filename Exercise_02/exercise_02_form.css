@@ -1,0 +1,21 @@
+h1{border: 1mm solid #00008B;
+text-align: center;
+padding:20px;
+margin: 30px;
+font-family: Arial, Helvetica, sans-serif}
+td{border: 2px solid #00008B}
+#submit{background: #00008B;
+color:white;
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 5px;
+padding-bottom: 5px}
+table{width: 100%;}
+body{font-family: Arial, Helvetica, sans-serif}
+#firstname{width: 100%}
+#lastname{width: 100%}
+#class{width: 100%}
+#email{width: 100%}
+#dob{width: 100%}
+#gender{width: 100%}
+#contact{width: 100%}
