@@ -1,0 +1,10 @@
+body { background:#000000; 
+font-family: 'Courier New', Courier, monospace}
+p{color: #3FEEE6;}
+ol{color: #3FEEE6}
+h1{color: #EFE2BA}
+h2{color: #EFE2BA}
+a{color: #EFE2BA}
+#title{border:solid #EFE2BA 1mm; 
+text-align: center;
+background:  #FC4445}
